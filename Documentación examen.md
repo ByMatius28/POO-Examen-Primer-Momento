@@ -97,3 +97,11 @@ El código proporcionado define una interfaz `NaveEspacial`. Aquí tienes una do
      - `velocidad`: Un número que especifica la velocidad de la nave espacial.
 
 Esta interfaz define la estructura básica que deben cumplir las instancias de objetos que representen naves espaciales en el sistema. Al implementar esta interfaz en una clase o en un objeto, se espera que se definan las propiedades `salud`, `capacidadCarga` y `velocidad` y que se les asigne un valor adecuado para cada propiedad. Esto facilita la creación y manipulación de naves espaciales de manera consistente en el sistema espacial.
+
+### Link Youtube
+
+https://youtu.be/Tav9yzH51ZQ
+
+### Link Repositorio GitHub
+
+https://github.com/ByMatius28/POO-Examen-Primer-Momento
